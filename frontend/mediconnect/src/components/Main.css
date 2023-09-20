@@ -1,0 +1,71 @@
+/* Main.css */
+
+/* Style for the container of each record */
+/* Style for the container of each record */
+.record-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #3498db;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px; /* Add margin to separate record containers */
+  max-width: 500px; /* Adjust as needed */
+}
+
+/* ... your other styles ... */
+
+  
+  /* Style for the image */
+  .record-image {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    border-radius: 5px;
+    object-fit: cover;
+  }
+  
+  /* Style for the details */
+  .record-details {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Add some space between details */
+  .record-details > * {
+    margin-bottom: 5px;
+  }
+  
+  /* Page background image */
+  .main-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('C:\Users\sai\Desktop\react\mediconnect\src\pxfuel.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2rem;
+    text-align: center;
+    color: white; /* Text color for main container */
+  }
+  
+  .content {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    max-width: 500px; /* Adjust as needed */
+  }
+  
+  /* ... your other styles ... */
+  

@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "user": [
+    {
+      "id": "1",
+      "name": "Kameswar",
+      "Username": "Kami",
+      "password": "Kami@1234",
+      "confirmpassword": "Kami@1234",
+      "numbers": "8569421825",
+      "keys": "Rajamouli"
+    },
+    {
+      "name": "Y kesava",
+      "Username": "kesavan",
+      "password": "Kesadera",
+      "confirmpassword": "Kesadera",
+      "numbers": "9087654321",
+      "keys": "harold das",
+      "id": "NzNxHAv"
+    },
+    {
+      "name": "S Revanth",
+      "Username": "harolddas",
+      "password": "deraji",
+      "confirmpassword": "deraji",
+      "numbers": "8907654321",
+      "keys": "pk",
+      "id": "k9u1ulM"
+    },
+    {
+      "number": 789,
+      "name": "sai",
+      "username": "nsai",
+      "password": "hello",
+      "id": "zQsDIQo"
+    },
+    {
+      "name": "Revanth",
+      "Username": "Reva143",
+      "password": "derabava",
+      "confirmpassword": "derabava",
+      "numbers": "8956556659",
+      "keys": "heihifd",
+      "id": "L1uFSqI"
+    },
+    {
+      "name": "N Kameswar",
+      "Username": "Kamesh",
+      "password": "@sai",
+      "confirmpassword": "@sai",
+      "numbers": "7879466669",
+      "keys": "@saitrt675",
+      "id": "hnUIXZv"
+    }
+  ]
+}

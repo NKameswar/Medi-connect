@@ -1,0 +1,85 @@
+/* Menu.css */
+.menu-container {
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url('C:\Users\sai\Desktop\react\mediconnect\src\pxfuel.jpg');
+  background-size: cover;
+  background-position: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 2rem;
+}
+
+/* .quote-box {
+  width: 160px;
+  text-align: left;
+} */
+
+.header {
+  text-align: center;
+  margin-bottom: 3rem; /* Adjust this value as needed */
+}
+
+.page-title {
+  font-size: 3rem;
+  color: #333;
+  text-align: center;
+}
+
+.quote {
+  display: flex;
+  position: relative;
+  /* align-self: center; */
+  margin-left: 30%;
+  font-size: 1.5rem;
+  color: #201b1b;
+  font-family: "Arial", sans-serif; /* Change the font family here */
+  text-align: center;
+  margin-bottom: 3rem;
+  width: 450px;
+}
+
+
+.menu-list {
+  display: flexbox;
+  list-style: none;
+  /* padding: 0;
+  margin: 0; */
+  /* display: flex;
+  flex-direction: column; */
+  /* align-items: center;
+  justify-content: center;
+  text-align: center; */
+  margin-top: 20px;
+}
+
+.menu-list li {
+  display: flex;
+  position: relative;
+  margin-bottom: 2rem;
+  justify-content: center;
+  right: 4%;
+}
+
+.menu-list li a {
+  text-decoration: none;
+  color: #2919da;
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.menu-list li a:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.menu-list li a:active {
+  background-color: #0056b3;
+  color: #fff;
+}
