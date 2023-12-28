@@ -14,8 +14,9 @@ This website was developed to provide users with a convenient way to generate a 
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, ReactJs
 - **Backend:** Spring Boot
+- **Database:** MySQL
 - **IDE:** Visual Studio Code
 - **API Testing:** Postman
 
