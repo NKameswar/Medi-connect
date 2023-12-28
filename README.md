@@ -34,7 +34,6 @@ Open your web browser and go to http://localhost:8080 to access the top physicia
 Project Structure
 src/: Contains the source code for the Spring Boot application.
 frontend/: Includes HTML, CSS, and JavaScript files for the frontend.
-API Documentation
-The API documentation is available at http://localhost:8080/api-docs for reference.
+
 Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
